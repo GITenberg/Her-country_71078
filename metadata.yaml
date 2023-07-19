@@ -1,0 +1,29 @@
+_repo: Her-country_71078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2023-06-30'
+identifiers:
+  gutenberg: '71078'
+language: en
+pgterms:marc904: https://archive.org/details/hercountry00andriala/page/n9/mode/2up
+pgterms:marc905: 20230505062828andrews
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Her country
+url: http://www.gutenberg.org/ebooks/71078
